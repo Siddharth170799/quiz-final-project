@@ -122,7 +122,7 @@ useEffect(()=>{
    
 
     </div>
-    <h2 style={{marginLeft:"1200px"}} >Score {score}/11</h2>
+    <h2 style={{textAlign:"center"}} >Score {score}/11</h2>
     <div style={styles.quizContainer}>
     <div style={styles.timerContainer}>
       <h1 style={styles.timer}>
